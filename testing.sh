@@ -2,4 +2,4 @@
 # run some things
 whoami
 ifconfig
-sleep 10
+sleep 5
